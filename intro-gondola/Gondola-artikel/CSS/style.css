@@ -1,0 +1,46 @@
+Body {
+    background-color: lightgray;
+    font-family: sans-serif;
+    padding: 20px;
+    
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.fancy {
+    font-family: 'Brush Script MT', cursive;
+    color: rgb(92, 92, 188);
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: dotted underline;
+}
+
+#intro {
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(55, 55, 118);
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'playfair display', serif;
+}
+
+.fancy.sexy-activity {
+background-color: aqua;
+}
+
+
+ul li a {
+    color: rgb(92, 92, 188);
+    text-decoration: none;
+}
