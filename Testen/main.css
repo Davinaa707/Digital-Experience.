@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to right, tomato 0%, orange 20%);
+	min-height: 100vh;
+}
+
+
+.box {
+    background: radial-gradient(to right,hsl(120, 72%, 55%), hsl(169, 70%, 44%));
+    width: 10rem;
+    height: 10rem;
+    }
