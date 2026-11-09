@@ -1,0 +1,49 @@
+
+body {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 20%);
+    line-height: 140%;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    color: #ffffff;
+    background-color: hsl(178, 44%, 26%);
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.highlight {
+    color: hsl(42, 88%, 67%);
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+h2 {
+    color: hsl(206, 47%, 53%);
+    text-transform: capitalize;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+}
+
+.inverse-dark {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(178, 44%, 26%);
+}
+
+.fatp {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-weight: 700;
+}
+
+footer {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(178, 44%, 26%);
+    text-align: center;
+}
